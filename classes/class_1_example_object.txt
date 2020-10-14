@@ -1,0 +1,13 @@
+Object: table20
+
+Attributes:
+materialType ("Wood")
+numberOfSeats (6)
+hasHighChair (false)
+indoors (false)
+
+Methods:
+changeMaterial ("Metal")
+addGuest (7)
+addChild (True)
+moveOutdoors (True)
