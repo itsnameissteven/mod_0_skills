@@ -10,5 +10,5 @@ hadicapAccessible (Boolean)
 Methods:
 addToilet (numberOfToilets + 1)
 removeSink (numberOfSinks - 1)
-printTypeofBathroom (print typeOfBathroom string)
+printTypeofBathroom (print typeOfBathroom string in upcase)
 changeDryer (changes handDryerType string)

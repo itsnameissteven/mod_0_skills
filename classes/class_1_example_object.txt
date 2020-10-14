@@ -9,5 +9,5 @@ indoors (false)
 Methods:
 changeMaterial ("Metal")
 addGuest (7)
-addChild (True)
-moveOutdoors (True)
+addChild (true)
+moveOutdoors (true)
