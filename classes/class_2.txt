@@ -1,0 +1,14 @@
+Class: Bathroom
+
+Attributes:
+numberOfToilets (integer)
+numberOfSinks (integer)
+typeOfBathroom ("String")
+handDryerType ("String")
+hadicapAccessible (Boolean)
+
+Methods:
+addToilet (numberOfToilets + 1)
+removeSink (numberOfSinks - 1)
+printTypeofBathroom (print typeOfBathroom string)
+changeDryer (changes handDryerType string)
