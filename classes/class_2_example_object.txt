@@ -1,0 +1,14 @@
+Object: family restroom
+
+Attributes:
+numberOfToilets = 3
+numberOfSinks = 2
+typeOfBathroom = "Unisex Bathroom"
+handDryerType = "Air Dryer"
+hadicapAccessible = true
+
+Methods:
+addToilet = 4
+removeSink = 1
+printTypeofBathroom = "UNISEX BATHROOM"
+changeDryer = "Paper towel"
