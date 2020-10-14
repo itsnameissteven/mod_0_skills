@@ -1,0 +1,13 @@
+Class: Table
+
+Attributes:
+materialType ("string")
+numberOfSeats (integer)
+hasHighChair (boolean)
+indoors (boolean)
+
+Methods:
+changeMaterial (changes materialType attribute)
+addGuest (numberOfSeats + 1)
+addChild (changes hasHighChair value)
+moveOutdoors (changes indoors value)
